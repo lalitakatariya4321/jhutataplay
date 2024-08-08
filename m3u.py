@@ -30,7 +30,7 @@ except requests.RequestException as e:
     exit(1)
 
 # Initialize the M3U playlist content
-m3u_content = "#EXTM3U x-tvg-url=\"https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz\"\n"
+m3u_content = "#EXTM3U x-tvg-url=\"https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz\"\n\n"
 
 # Iterate over the channels in the data
 for channel in data.get('data', []):
