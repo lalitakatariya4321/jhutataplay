@@ -29,6 +29,6 @@ jobs:
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: 'IQkhan'
-          author_email: 'khanumiqrakhanum@gmail.com'
+          author_name: ' lalitakatariya4321'
+          author_email: 'lalitakatariya4321@gmail.com'
           message: 'Update M3U playlist'
