@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png", group-title="News", INDIA TODAY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "shkprTbHslpLod7h9NH7nA", "kid": "spM3EiWhUiurYYZKNOukeg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnnceDLqV1xXACeCL5Cy9Q", "kid": "Zy8qsHn9UueHZso6qN8vZA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/manifest.mpd|cookie:400 Bad Request
@@ -36,7 +36,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png", group-title="Entertainment", STAR Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VJBGCizrU3aowoeeNuLYNg", "kid": "ehdzH/QAWBOWFim5R4e3hg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pv0V5vBjEkhUOA0hw57xPA", "kid": "I+5jMnZCW12PdVEPQ5MLzw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd|cookie:400 Bad Request
@@ -85,7 +85,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png", group-title="Entertainment", SET HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ITq/X0C/nbUbTGJ0a5fZvQ", "kid": "N2pH6UTBU9ysOz8m4CpdzA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sEnoEy91FwPcBM7ufmrN2g", "kid": "DaAaPeGQWsyrnNbMpN6ZLA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd|cookie:400 Bad Request
@@ -99,7 +99,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png", group-title="Hindi", Zee Bihar Jharkhand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GzfWLac+a3ngN5wnfY+syw", "kid": "yrYwzpChVJ6I5rKUFLeHsg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "faFLIsAfLyI0HAZR/N5JEQ", "kid": "Zx8R84V+VgCrrSvVpGB4VQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/manifest.mpd|cookie:400 Bad Request
@@ -119,7 +119,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", group-title="Sports", Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DbW6jmItWJ60O2I0+ZWj/A", "kid": "woCZKWf9V3CZolBZbkhXhw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8Tgy8Edbw/mKXLz9yj4sdg", "kid": "K0NSneIZWxGlAdYqm2ud6g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd|cookie:400 Bad Request
@@ -133,7 +133,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png", group-title="Bengali", Colors Bangla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jBz/qoVWk3CsA0iXYW2TeQ", "kid": "Ch12S5dRXBuRMyN/jpIYXQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nioian7CwaHARwJgx5nPYA", "kid": "ZitYcH2LV1eUCtFlJv+FKw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd|cookie:400 Bad Request
@@ -161,7 +161,7 @@ https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png", group-title="Movies", SONY PIX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "szIvEKTXnMM3miN9myQ3Dw", "kid": "jlbUKcgkWtqriI51Knu9vQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "SI0fGjyH23OOiCOCzMp0jw", "kid": "yLdwm6A3X6ikGw03gy0rsg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd|cookie:400 Bad Request
@@ -216,7 +216,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png", group-title="Entertainment", Andtv HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sxehfWzHrZUAjnPlEM/Htw", "kid": "ckmccWY/VZCvKQD6LXMomw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "T4kmUR9WmJ3wofTjcDLsgA", "kid": "kHax7QYxU7aIdljZJzCltQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd|cookie:400 Bad Request
@@ -244,7 +244,7 @@ https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png", group-title="Kids", SONY YAY!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JrZfWvGxQiEMoOvuZbIkLw", "kid": "qHMSTC6RU72g4/p/3YWXHw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "IGQNBwzcpha9uVRiTavCcA", "kid": "6CVWtrRfVDGJ/bjuNZuAew"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd|cookie:400 Bad Request
@@ -258,7 +258,7 @@ https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_371/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="48" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", group-title="Entertainment", SONY SAB HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WaJj9jHIb8/5My/bBtHGAg", "kid": "ZxUjQyFUWn69SUqGh6wSQg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "OEw481Ex14dDca9ZwMU7Rw", "kid": "e0u/8QJdVpSOncWT7j6iZw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd|cookie:400 Bad Request
@@ -279,14 +279,14 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="52" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png", group-title="Entertainment", Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "y4qIxqDLqBBtSZChWykHUg", "kid": "qEdq0qdvVZWxpQrERGWNug"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7zCAbiXOoOG6IOF+IFaAFA", "kid": "eP72DZQ/VuGswM+MdQvnAQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="53" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png", group-title="Movies", Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "O9pgivNP3YEUt7xlOZ0Q/A", "kid": "HfqrIzlGXWWDWhToSpcrSQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "MhkkjeYeeKyyqtkoc8Ffag", "kid": "Ablk03nwUWSWXA0tMx/51Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd|cookie:400 Bad Request
@@ -300,14 +300,14 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="55" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png", group-title="Lifestyle", Travelxp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Ykw/cyRca7OX9BIwVpZsHQ", "kid": "/tDieKCsXxi87fZHD+eWfw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CLO94bgnOcIMeUtMZtAisw", "kid": "Kmlr/GiJUTeZ3P8e4lilJA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="56" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png", group-title="Movies", Sony Wah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3i0ZkRM8boq2mQfmUkgYcA", "kid": "4YXQx+PAVQ2dBgeS78uH0A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NS8URq7Kvofny6BX2s4hlQ", "kid": "Xmy/pRGCUxqj6XUIMRlCNw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd|cookie:400 Bad Request
@@ -328,21 +328,21 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="61" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png", group-title="Movies", Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "KvoOu5wSVJFYIRIFrZR82Q", "kid": "ggA2I6NrV068n/0ilGdj2g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UKg6RCgY0ZjWia/3AHSGZg", "kid": "BrE4GOpRXCmmnCxT8nojVg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="63" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png", group-title="Entertainment", Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "o+5VwCJ4OSfeSY6LQqdhwg", "kid": "EcJY/rKIUr+35hpHJNdcMQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "r5/hIdoiHxuT8P+QYvRiTA", "kid": "Wq4Pp/FfUs2KbFAnl2Nn0w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="64" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png", group-title="Movies", Zee Anmol Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZrI32tSyBlbuJC0GDH2dOg", "kid": "+8XB2S60WlKLHQ6DsJBMAQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "IdBBiKL+U4F/W8lheeFFnw", "kid": "8jFiYnoaUwqJC2ACat62fg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd|cookie:400 Bad Request
@@ -390,7 +390,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", group-title="Sports", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "d+4z4tgluKj4gmgQqqbgNQ", "kid": "KW92yg9JWbaOZL7G7zaWhw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "X8d4x40nSpPwUPy6zY21Xw", "kid": "MhEW7dsJUaOLXdVJVZx+wA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd|cookie:400 Bad Request
@@ -404,7 +404,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", group-title="Movies", SONY MAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "z4cdV3me382VUY0QQNZnkg", "kid": "tMtwMfddWj6bK/1a0U1ndw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XnzQV/DI9uXoK9cWFTSsbQ", "kid": "EMFLR1tfVtSE29Zuf6BiGg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd|cookie:400 Bad Request
@@ -446,7 +446,7 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="90" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png", group-title="News", TIMES NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "drsTThk+/AMMKa65lCbIWA", "kid": "zElrE0xNU9GGOCQaReTGIQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jOIfaAg+wlsqkfkR0drMFw", "kid": "4FkLNypQWDiIK85X6//khQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/manifest.mpd|cookie:400 Bad Request
@@ -467,7 +467,7 @@ https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="93" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png", group-title="News", NDTV Profit Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "va0y98MghENeba6cxLey7w", "kid": "XeuGphbJUTOZC4KKzfdw5A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lPpuW3VvOpZXRwa1Y8ZI5A", "kid": "u1MR7nPEWDqcGI6rZ5r4VQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/manifest.mpd|cookie:400 Bad Request
@@ -495,7 +495,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="98" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png", group-title="News", Russia Today
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jx4+wqWrFx2kyOiaXwUfQQ", "kid": "IF8qmtnrVhygNY3MhuWeiA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nGOQLo0cl1nXj9SV4U/UfQ", "kid": "6nkrEQwmX3q0fJM0PTea0A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/manifest.mpd|cookie:400 Bad Request
@@ -530,14 +530,14 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png", group-title="Music", MTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZAzZCDH/JstmgGgiEMY2ow", "kid": "iSwjoWcvUNS2UTr8drUnBA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "f2wjkU9pIPIX21M5x5r8jQ", "kid": "DjwoeeAKVHqK9MDW0Jhx9Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png", group-title="News", India TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "OFopi7jMQSaffNHqri4wjw", "kid": "CItV+UhwVyGZIH7eZVA+rg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mBRK+sR9J6v5UUVU3sjw6g", "kid": "5QuZ7OOFUQmfdjaXcLvF7w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/manifest.mpd|cookie:400 Bad Request
@@ -558,14 +558,14 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="107" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVGUJ_Thumbnail-v3/ETVGUJ_Thumbnail.png", group-title="Gujarati", Colors Gujarati
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eMIb/8j1zmpuM0NXTzG96Q", "kid": "GVLUg4jmWh+KYViQXa0D3Q"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3WehBloQ+13mTvIjnmavyw", "kid": "TO54Kuu/XaCDdjzaqZjWag"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-345-j5jmkws0-v2/imageContent-345-j5jmkws0-m4.png", group-title="Kannada", Colors Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Es4RoPvNLt6HOyJ2nsaqzg", "kid": "TIsAeUtHXYuZLCaQYdve+g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ehSNUivvqI5hhZQ4P8FUXA", "kid": "YpgC760sURq5LqehvOfUtA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd|cookie:400 Bad Request
@@ -579,21 +579,21 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png", group-title="Knowledge", Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DNwcbMGJBJ54r14pvgrGWQ", "kid": "l0IEiuR1WTakMWWx3ARviA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "q5RgN3wkyTSq42Y1vPIzzA", "kid": "pbaW0n2tWhewWMJNhySJ0g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png", group-title="Kids", Disney
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "yAfWor5bMrS7sQdXStTQCg", "kid": "mrZ3I2pWVRmMAFJ6z/FAcA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "HG/Xn029YLnjkUXOzW+tUQ", "kid": "fxHHXSmaWt2ZjFMxIulKnw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="115" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png", group-title="Odia", Colors Oriya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kk43Fozc0KSocoxd0DbEaQ", "kid": "lrxM44nFX0mJ2k7w2mGvrQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8BKOBWFlmnVHRj0JupFuRg", "kid": "zLP27iTGW02fSVLvALIo0A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd|cookie:400 Bad Request
@@ -614,14 +614,14 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png", group-title="Kids", Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QDZNgkyoWsc8g0Tazh0Y1g", "kid": "GPNsrDPBXqmdWRgkytOwZQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "v3O50TUay1XsUTVffrnFSw", "kid": "v7Aw4B2uX3qTxwiGfYQOCg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", group-title="Movies", SONY MAX 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AvxlDodUjqbMeIvjVPb8lQ", "kid": "uWa0mW8yWh+lHLWWgCxO1g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Bb1pZVUbbL6LSt2ru6Fj1w", "kid": "cXbuPpTbX8eXT159aGLN6g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd|cookie:400 Bad Request
@@ -656,7 +656,7 @@ https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="127" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png", group-title="Kids", Sonic Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JLT2sI4fRIqBr1NyjhTUFA", "kid": "dL862z7DV6m5xEt4+8/MZw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YJAgw3/iy+6XTMqeDslHgA", "kid": "uUSapkagUTm+XlszN/zA2w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd|cookie:400 Bad Request
@@ -677,7 +677,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_210/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="130" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png", group-title="Knowledge", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZVeHh1iQhp0uhknAsj2ffA", "kid": "S0uLwfDYUqStPpDqfrxCQw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6tCVz4QHLVOq6d9zhEV+wQ", "kid": "U5fAiOjNWL2ErYDFWesvZQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd|cookie:400 Bad Request
@@ -691,35 +691,35 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_241/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png", group-title="Movies", SONY MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "2aOVTzORRg7i9t/SNqRnLw", "kid": "pcxSZtYXW/2q7GmGqqmcsA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cYH6LSgekVx7d+Y67p48Og", "kid": "Ov9+BN15XGqfJJ+Dtleofw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="134" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png", group-title="Marathi", Colors Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Z634GUkkD4zapAPRMIuziw", "kid": "N95d0FABWYK5dA3XEkTY+w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jqc5F+QJhc7Skx3UHcnueQ", "kid": "DWlGF+kmXV2SI0toTfUuYQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="135" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png", group-title="Lifestyle", TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "s1YJpKWwnwjxkryPHuQciA", "kid": "ts7Q+pcJVEmfUw4biSWxfg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kpCp7YCL7fJdu66csYGdwQ", "kid": "DRnRo6vRWz+TRsa9jP78Ig"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="136" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png", group-title="Lifestyle", GOOD TiMES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dzkGCGPTSo9zrhYV1H2HGw", "kid": "g9btzaq7UN2HsMSdulFCKg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lTbO+Kb3Baq/0frpd2Kjjw", "kid": "OV0DDKUKV5OfAGquZa9a0A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="137" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png", group-title="Knowledge", National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gGGqDIUsh9pXgdU81zSosA", "kid": "SqEYuggZXGKTkFvqumR5fg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "v/kKBQ3hktUD1x9WVZaNFQ", "kid": "YtWNXjEPVBqbybuqC5sTpQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd|cookie:400 Bad Request
@@ -761,7 +761,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="145" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png", group-title="Telugu", ETV Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kuhg1RWeExYav6/QSdABnw", "kid": "6YsXrjVcUimzbEGHHTinaA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kR+4wPNPNRXpmih8x8EUrA", "kid": "LCrbMMzhWeuDUsmXIjgpDA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_172/output/manifest.mpd|cookie:400 Bad Request
@@ -775,14 +775,14 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="148" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png", group-title="Movies", Andpictures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XesbB5kZ/giO/EYJH0Tzfw", "kid": "YbDQugD+Vbu/gGJNKh2GFQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AnkDAalrwiHLVkmBA0We8w", "kid": "CXWYvLqIUbOjKaPjLtv1Qg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="150" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png", group-title="Sports", SONY SPORTS TEN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qaG+b6MAfMiXWO0rvqPTIQ", "kid": "V4y/HsijWb+o1wANbeHZIw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "bDqE4jt5f0pd6b6/CjblVQ", "kid": "zxHHzu3mVmuR3UhTrJgL+w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd|cookie:400 Bad Request
@@ -796,7 +796,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="153" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png", group-title="News", Aaj Tak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uvqj6p4UyM3jDAv6IvJs7A", "kid": "viLrxqqoWW6IpOHbzX4dog"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YH9ZaQn/jtdJF06OcFWfpA", "kid": "eQHVyv3dWzS6D3vou7GaLw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd|cookie:400 Bad Request
@@ -817,7 +817,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="158" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png", group-title="Knowledge", SONY BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0CtcWmPCBtpDpj8UdmomVA", "kid": "oxZ4IjaMVW6xEjr+OM/RHg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "07l6LCfn7Ag+pobpsiVZ0Q", "kid": "kAGTnHgLUGms042LzVZV+w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd|cookie:400 Bad Request
@@ -852,42 +852,42 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="168" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png", group-title="News", CNBC TV18 Prime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LDsq14VvSaPgWSa+LjsRVQ", "kid": "srzgpD0jW8iGJ/2wvIgxeQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wHBLRLp1SQ3UZniEIZkX3g", "kid": "hjzZetukUwGP5QiU0v6M6A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="170" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png", group-title="Sports", SONY SPORTS TEN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UyXGeX5fPz9463tZtAlleA", "kid": "O9bm8jgOX1eq+Qs6m8Rphw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/VbyY9P9H6YPxfue+goBcw", "kid": "dzEV74jYXnyK5431wHzYLw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="171" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png", group-title="Sports", SONY SPORTS TEN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wXMsruFIVuFs6toDL60dKQ", "kid": "S089X/IUUGGce+zpC0U3aQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cQi2lnmuvn+PnffHix1oPQ", "kid": "HVwLOoGJVJaew2jWJD9h4w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="172" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png", group-title="Knowledge", History TV18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NjE9r7sbgpRosqKOyIqw2w", "kid": "9jS1pqgmUxCUotQ6vm8WaA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TvLXDH0EZ7maW4ChvRYkKw", "kid": "7U4ykOP+W5qCjpdF/TSnZg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="173" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png", group-title="Movies", Movies Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0yWRjctgjAKo8VfeUeg2Wg", "kid": "hsuexNHlWtar4cl9NVxUog"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "EMFG1TRdBVxbD1sIxHCdpw", "kid": "VjmRSy0lV3SNHJhZqCzPfw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="174" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png", group-title="Movies", Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GJFBBgFzBFRduk6toY6jDA", "kid": "0MAPjg4vU0CS/TQA8Z8mTQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "67wAT0+0941Aq/ajVJg/8w", "kid": "Bmbw+hJ3Ud+1skDaNCWBxw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd|cookie:400 Bad Request
@@ -901,7 +901,7 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="177" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png", group-title="News", ABP News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1IjdXvMJ0biOAlDdzFwPcg", "kid": "7KIB0OSwV9Wp1W84XKAPwg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Ym9KQ5VsoB6/lI12LtjZEw", "kid": "6e3bHJxeWc+Pgz5+B36l5w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/manifest.mpd|cookie:400 Bad Request
@@ -915,7 +915,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="179" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png", group-title="News", NDTV India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FW4KDUt6EfDrFSn+ocxkoQ", "kid": "w5tx+P+xXqW7uERZ4el8mw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1feimA0Ts3bDwUbJRIdyzQ", "kid": "MYDkeDp+VYSHBmecj21l+g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd|cookie:400 Bad Request
@@ -943,14 +943,14 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="184" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png", group-title="Knowledge", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "MSlaDgJ1u860rDtu09NMfA", "kid": "MyEYrjUHUiOSPjBbOWLVcQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "RpzjNBe8iTfaaW0C/3pJnA", "kid": "ToJfjVCPUbSFyK6Cntv92A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png", group-title="Entertainment", Colors Infinity HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "IVtgh+HO6bb2hxdKhnQTxQ", "kid": "XDF2dvbLX5a1iVMcOVVY4A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "4FQyafXJXVhRO5LZM2TYOA", "kid": "kVRxmRvqWhOBDSv8NtjJGg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd|cookie:400 Bad Request
@@ -1041,7 +1041,7 @@ https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_213/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="204" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png", group-title="News", CNBC Awaaz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sBKxe8dEN6H2uBtbWVGxYw", "kid": "2oJPuW/5VFeiQ438B0nekw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xZ2dPyg+HU8PNZlti0EM3g", "kid": "cgfjSBzsW4qyZRvfFc2kmg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/manifest.mpd|cookie:400 Bad Request
@@ -1055,7 +1055,7 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_141/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="206" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png", group-title="News", CNN News18.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wRo/nDsTswHVVHNaPKnDng", "kid": "xJPbrklAVleVGacNdke1tA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "85t23QmAPlFLNVjlGm861Q", "kid": "+TpObILbWy62fOKevRgcvw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_108/output/manifest.mpd|cookie:400 Bad Request
@@ -1069,7 +1069,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_287/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="208" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png", group-title="News", NDTV 24x7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1cyNZZ4S8kfzR6eRIGHf1w", "kid": "32zdeDozVG+JJDXY9Z5A4g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ptApQ+Qby8S+bFp6IjTs1g", "kid": "PLjo3BY3WlCLWweLX8LkOA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd|cookie:400 Bad Request
@@ -1132,7 +1132,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="219" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png", group-title="Knowledge", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1NksUV7xuKDKa06Avvc1oA", "kid": "Tt/Hx373UlqJGtP9aPjQiw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3pnkBxoYlr2uG4Gz4NevHg", "kid": "Onbemx+2VlKEzLvFzuD2Cg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd|cookie:400 Bad Request
@@ -1195,7 +1195,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="228" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png", group-title="Lifestyle", Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jn2wqK8R1Z3jsFxoT8wKkg", "kid": "/ReYVlQCWj6DKF/FPIEnQg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Jccwa7MzS6IOxZd7wd7ljA", "kid": "Hj7pfZfVU8OUTKEiPucj5w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd|cookie:400 Bad Request
@@ -1237,7 +1237,7 @@ https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="234" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png", group-title="Movies", MNX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "2NQwcWAmoeif9VwXvdiexQ", "kid": "+Fv5d0NlUeC58zXRohF6Dg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "2b0HcgAxrXltl5t/ZYY3fA", "kid": "ly7oYDkCWZSWyzbm22YsMQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd|cookie:400 Bad Request
@@ -1251,14 +1251,14 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="236" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png", group-title="Music", MTV Beats
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XKRiGG97z52xOKTmsweZ4A", "kid": "W7Yve7leUOqB5iHBnz7M+Q"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XTwY9qhWAlW6iG1Y3FbF5g", "kid": "pNQyr7P8XuaY3ZByWAFEkw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="238" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png", group-title="Kids", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lzAnOcfAOeVywH0bIw+TlQ", "kid": "9QuTAPTXXyqLd+gn+fexOA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QaYaibc/hgYwbAZyhBQetw", "kid": "7dUd/HdcVMKBnT3rfm3TLg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd|cookie:400 Bad Request
@@ -1279,7 +1279,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="244" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png", group-title="Entertainment", Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "byOToXCgM6JdVqi3853NyA", "kid": "wprG+QLxXQe9kYTPDGbnww"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "RnwUYumnqX6yq1Os8BFTXQ", "kid": "kyS3H5X7WQKrwck3Y473/A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd|cookie:400 Bad Request
@@ -1293,49 +1293,49 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG", group-title="Sports", Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "HHW2ldyrH1pkxmHzRf4YgQ", "kid": "KYh3DyvOUsio7lm/kK9iAA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "29LodwIEVFdtAl+2Akb2CQ", "kid": "tfOGCiNBWHWasGh+J0w6Kw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="248" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png", group-title="Marathi", Zee YUVA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7PTGsL+zVsULyyTbR+aftA", "kid": "ly8pn2/xXmGw6W/gdJPPnw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0Ablf416Gm+FYWkkh8lD5w", "kid": "6tUTE9JNUpCJeq6ftf7H2w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="249" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8842-j7pp0me8-v2/imageContent-8842-j7pp0me8-m2.png", group-title="Marathi", Zee Talkies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YjQPpzN50NmI1C5ZcIni2Q", "kid": "PjNUXF1YXoSXOTv5ggllVQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BW33AmXCv+6OPNNV4mZ35A", "kid": "bscP4ZhZWYurnXf4S3HIdQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="250" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png", group-title="Telugu", Zee Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "z4Adyu5qAbyNvwCetLhrzA", "kid": "wWDJZzLQXiWJSeNQIqBHXA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "KuxshvvQQee2PgoapPWPDQ", "kid": "TTW3f0nTVC614kT9Xl/r8w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="251" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8846-j7pq3jmo-v2/imageContent-8846-j7pq3jmo-m3.png", group-title="Marathi", Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "OqASp0pInAigmgQR5o7oeA", "kid": "Kca+LZhlWbeRjzF7ZNV+nQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZoZ7hmsLbu0ynwEZx0kAZQ", "kid": "LTrePdv2WhiGOiu6/CNVkw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="252" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png", group-title="Telugu", Zee Cinemalu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "SICtrEJvhzuyr2hoxWKYBA", "kid": "BxOwWH8/XRejLsZEjSAQ3g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gTGfYxq72CEGxz2PwymGgA", "kid": "Iza8vGmIXXWNgnU5JVxvLA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_416/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="254" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png", group-title="Bengali", Zee Bangla Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "b/yyG8X4H/Jbr6X/xtssdQ", "kid": "s8dY4Fq2VAqfcvpp6O3zOQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iLzI0mb0vWWc0fnhEpj1lQ", "kid": "XNlSCjQrXRSCpYNlgWIMew"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd|cookie:400 Bad Request
@@ -1349,42 +1349,42 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_422/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="256" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png", group-title="Kannada", Zee Kannada
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "F9VWBDqD71OgYW676tZQmw", "kid": "+YOgaq9XVrK2o2sQDqWqdQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "y/tHrDljmkS59J1nvs/Wlg", "kid": "VK3tQtSrVj2tukaemXLz7Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="257" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png", group-title="Tamil", Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "fBjcxYxXS6KxdICBzSKcow", "kid": "hLZkN0IwUmKQua8W/lcd0Q"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TuQWYmovA7n1CsW0bp5Hsw", "kid": "FgHkWGZpV2qB6dyWOA2PfA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="258" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png", group-title="Bengali", Zee 24 Ghanta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XKAfwG6O47n62howpL951g", "kid": "IWFfRUrQVPG1aCVvlI1cjQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "obsB9oOdXRgo1SVTpODqIQ", "kid": "GROgivSYVWWn1kHLHaiWiA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="259" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png", group-title="News", Zee News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8A8god/dZYgzjEAVcHb2Aw", "kid": "Og0l7GbdU76HVM/1UFMyxg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "juzfGrGOi4oY6pSGFL8+Uw", "kid": "eJlqzt8QWLuNcTgWIk3g9Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="260" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11120-j95jyuao-v1/imageContent-11120-j95jyuao-m1.png", group-title="News", Zee Business
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8oKlU7m4HHAhRPDJQsLddA", "kid": "ItEGC8gEXzqgM+JkJrK+vw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "fk70fIxclPwqzRqZHyO8Fw", "kid": "HuAmQ0rbXh2f78tpjSFqkw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="261" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png", group-title="Marathi", Zee 24 Taas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "aFnncut/u9/jp0RKmlUe3w", "kid": "o78RGpcYV52r6DrfzAnF5A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "vedlfDDxU7cr6vVLpvjOLw", "kid": "FO1kTzw3VhWzPb4Xhw7xDw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_427/output/manifest.mpd|cookie:400 Bad Request
@@ -1405,7 +1405,7 @@ https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="267" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png", group-title="Movies", Andpictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nKfOA3ILKFA9s9o0JyxGqg", "kid": "Hv0f/zsjWneYb6kxJH+dXg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "S1ho5iSfAcdGnmG3ZI5QKw", "kid": "LCUOjLyuXBO/xeaxNOXGGA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd|cookie:400 Bad Request
@@ -1461,14 +1461,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="282" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11230-j9icx1i0-v1/imageContent-11230-j9icx1i0-m1.png", group-title="Tamil", Angel TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "s0zczeGHycImoe8VqvTbMw", "kid": "OAMs2TCNWP66z8rEwQEWjw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Xe7EQQQWBsL7B/o8pTkwwg", "kid": "SIGja3bFUiu3lBVkwW1OUw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="283" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11212-j9icd8jc-v1/imageContent-11212-j9icd8jc-m1.png", group-title="Spiritual", Aastha Bhajan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pUa19FqDG33EklKHocHuJQ", "kid": "VxvClpMTUnWCpA/P/AhUaw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "yLN59wAzxZa5Gvjbu8aslQ", "kid": "fs/hR7zJWGK7I7ZNf4wlIA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_436/output/manifest.mpd|cookie:400 Bad Request
@@ -1489,7 +1489,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_459/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="287" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png", group-title="Knowledge", Animal Planet HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FMC/p8NZHVwPtB58dqKLtA", "kid": "pvmmHOSHVcqssN734Yczkw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CU4/Zx+PU0XXTxJM8fooxg", "kid": "I74oymXoUZucfc6vn6tcog"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd|cookie:400 Bad Request
@@ -1531,7 +1531,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="294" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png", group-title="Malayalam", Asianet Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1dbZCM4eYLQWVIQIJawz8g", "kid": "2daElg4+U/SPAXRx2lQSCw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wWqP292LRNaLTTp5FN5VSg", "kid": "143iPWLDUHaGypbLOY58Cw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd|cookie:400 Bad Request
@@ -1552,21 +1552,21 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="303" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png", group-title="Gujarati", CNBC Bajaar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "RYBQlDzacYhK1EPdMg4Z4g", "kid": "XKjGMWtuUVu6ja2LPIyfHw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "h34Tf+yfgy4/AnB4ynH8wg", "kid": "r2/jIh5DWc2DII0AuPtxWQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="304" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png", group-title="News", CNBC TV18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "bG5mc93qwPcIodTRE2Cfiw", "kid": "3XMtufFQW8iNatLkBFiiyg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LLpMwd6mcNaP06ntLGGJlg", "kid": "RFY0+1jkWsubp1OYEzV/mg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png", group-title="Bengali", Colors Bangla HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "htzaxGQ/pyBXVISf8lQYLg", "kid": "Z5gROG3tV3CnB7nSISeZUg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lR0YrRHoRPfKOStT2J1yEQ", "kid": "xoub8EB+V/2C5jIMlq+0NQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd|cookie:400 Bad Request
@@ -1580,14 +1580,14 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="307" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png", group-title="Entertainment", Comedy Central HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8YgHhQNmE1ZPxpHfbRtGbg", "kid": "9Il6mG7SUNuhyQHnLsdDpg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ISb8hpVUN58dzWBltYxyDQ", "kid": "USCXyYZ8WiKkZ3V2FkY3nQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="308" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG", group-title="Marathi", Colors Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+dLxuXH5mrkLfp6o0JadfA", "kid": "rn8BkGyeWTSazTXWLlWTZQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "86fuaJtz8/lvsRF+lN7K0A", "kid": "6fadZoMgVUymClpX8w1UMg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd|cookie:400 Bad Request
@@ -1741,7 +1741,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="341" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png", group-title="Knowledge", Discovery HD World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZQdLWhzzjKCDBJxUHDLgQQ", "kid": "8cmnznmvVjaYTLykvOhyOw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3n/MCZ6DXfNE1mcurDw/4g", "kid": "rwuZ239JXE6xCgjD0p4sGQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd|cookie:400 Bad Request
@@ -1825,7 +1825,7 @@ https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_536/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="359" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png", group-title="Telugu", ETV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "fwt8vpsfY/ux0BkD/sbn4A", "kid": "H483U0x1WbK/SGntbpbElQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6OP3ul8AVGzeCl5xe/66Kg", "kid": "RSgu7w9bVrGkrJTe1vjrVA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/manifest.mpd|cookie:400 Bad Request
@@ -1965,14 +1965,14 @@ https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_605/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="387" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG", group-title="Telugu", Star Maa Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "398t8s8FacwBQCojvkuKoQ", "kid": "reP8SKojWZuy3AnTNYO64A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gu11SeF+wtsCU+jSnIGMFA", "kid": "YZtPOI1/U/K/JCSEFou4IQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="388" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png", group-title="Telugu", Star Maa Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6VnYAVvQvAjAtoIbtwVo9A", "kid": "7jiVAMg1WuWlxOczRnpf+w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pA3pI3eobZOsmSgV+fvAFQ", "kid": "PpxHpJJKVXG6p+rG6VOlkw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd|cookie:400 Bad Request
@@ -2041,14 +2041,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_626/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="405" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png", group-title="Music", MTV Beats HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cSI36gWRmgtmnDOzJ/yRKA", "kid": "qfBr+dSbV2+98sqp4f5p5g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pvmOr1AI7VdakXB04ChYvA", "kid": "wTk82M03XHSMpe7xfvyrxg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="406" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png", group-title="Music", MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mG29h9/RQ2nwmvJ1MQBhuw", "kid": "qVmvNYWOVn6ZtnADMw8LWQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VXtFrOm3VTBeQUnt7A2Mlw", "kid": "E2lWmNysU4ardo4wWXh8gA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd|cookie:400 Bad Request
@@ -2069,7 +2069,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="413" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png", group-title="Knowledge", Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mR3em6QYe7SyEt5l6G4/tg", "kid": "MK41RqB0WMSV7xxuoSTWKA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TMiiqw8ox85esDAqF1GOBQ", "kid": "hoisXeYWWiCuXK/c+hxZ/w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd|cookie:400 Bad Request
@@ -2090,7 +2090,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_664/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="418" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png", group-title="Tamil", Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Z1VYXa5FPLD3y2aAP6JyHQ", "kid": "hvEqbHAIXFWWIkxiNyMwXw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nucCCGlHjwSqyoPRJG9WWQ", "kid": "nH5FnlFXW8ufQGXKE6lssA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd|cookie:400 Bad Request
@@ -2174,7 +2174,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_667/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="433" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png", group-title="Kids", Nick HD+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Z/au6/nyT0ayVulDrxY9/A", "kid": "fUPLMxyWUZK95Ku+L/hJCA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hN+YWvnb69HdjtVYBi5hpQ", "kid": "E2X+aFqxVzmw6jmbki7N2w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd|cookie:400 Bad Request
@@ -2195,7 +2195,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="438" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png", group-title="Entertainment", Colors Rishtey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JbKOaS52RZSHsPrhpsvfSw", "kid": "XaN4cFcHUyqSo9+ICmq6Bw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kr8KkA1Fpmb+3S7TUYRxag", "kid": "T50eYtx7VIyfSrzp2yy0JA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd|cookie:400 Bad Request
@@ -2216,7 +2216,7 @@ https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_703/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="444" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png", group-title="Tamil", Travelxp Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "zqUcNmInJC5jBIHxO0A57w", "kid": "bLeo+E5CX2GAqlBhLmz+Ew"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZdYiZrhnBnrIHT2lah1PJw", "kid": "I6sF3m3kX0acZ3f8ONUtUA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_789/output/manifest.mpd|cookie:400 Bad Request
@@ -2292,28 +2292,28 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="462" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png", group-title="Sports", SONY SPORTS TEN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gPYGMAZ5jCYlczRsBBJPrA", "kid": "Sla3p/2YWRGqeXAfmoAyRQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hFI/1sdWS31t9H/pSViZEg", "kid": "fIsWl28cUYC+DnYQldQuWw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png", group-title="Sports", Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "s66l40hcMC8yDMGCg6Ko+g", "kid": "KZAaFAZZWfmDQ47vD98ReQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TEGcoNPcjLqOnWTBG3iOOw", "kid": "1ElAmNHHVruMM9bM8JrHxg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="464" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png", group-title="Sports", SONY SPORTS TEN 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gT1/GlbMM0bXboBWIuGu4A", "kid": "S3CIy9HOVIaQOP94sk2z5A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "b+YS8ia8uPkboZ6nqZ9cxw", "kid": "vWEpsDVBXGSCsXIzY8rl+g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="467" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png", group-title="Kannada", Star Suvarna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GrKahuuOCBXcTLZrj/yNWg", "kid": "MA+MSNTfW8ee+xy6LlIlbg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ON4QAySFwLfNzxMRTe3Z5A", "kid": "LCG17bfwXzCZDC7gZ0Okqw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd|cookie:400 Bad Request
@@ -2327,14 +2327,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="469" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png", group-title="Marathi", Star Pravah HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZA5KRO2Z1By8pHXk6SUbIw", "kid": "6NjFJZsYVZGAyG7GCkpvJg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uxEE3UNTF0P0Xby5VfSXfA", "kid": "xRJbD51FXsaXkzimdbbSCA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png", group-title="Tamil", Sun Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8rv3FFHfmPrPFxoFV4GuJQ", "kid": "uA+9EaA4XIKO0K/AiXf8VQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LZlwpU2hyo9pVaitLE4wHQ", "kid": "n34OZa9MVJeg9RV+xVCziQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd|cookie:400 Bad Request
@@ -2355,14 +2355,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="480" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png", group-title="Lifestyle", TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JaCvQ2Gdw/HZ55iNoNsDhw", "kid": "4fQPIFYxUAu6o4npmmeZLA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hbRBAT+9S6uK1KjR1TGlGA", "kid": "TovM7Z6/WyiieDJSvYZDeQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png", group-title="Lifestyle", Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "A/VE8y4rcNH8L5HG/JJOoA", "kid": "LgNtKHffXe+H0d5SiAhiCA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XfqutgNMAVHl0VugqQTZLQ", "kid": "VdSZRUewWLSArstwivfjlw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd|cookie:400 Bad Request
@@ -2404,7 +2404,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_806/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png", group-title="Tamil", Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Yc/RwL/Ni7LejZCwvcpSxQ", "kid": "vkjjX8e2U8un7NE3NsCbaw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1PsKqn2UY4j8QRqTgBPb/w", "kid": "tn1hPBgMUumg0gGNK6/XkQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd|cookie:400 Bad Request
@@ -2432,21 +2432,21 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_814/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="501" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png", group-title="Marathi", Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UerhcFGdR7zjL8qEXOJ7zQ", "kid": "6YtsEH53X1CKc81LiU6V6A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CEMWUIVpx6p9ZKmCeSHdMg", "kid": "Zu6U410XW2C27W4l6foiUw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png", group-title="Movies", Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XlyKU/ncFF5KhL2kYaSupw", "kid": "HnxA8zHnXZ+XRdwEsbR4ng"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dz6oAAzhcJcdxXa7hiqebQ", "kid": "rlNjgoghXC+4E+H0xvKUrw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="507" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11924-j9l5fs6w-v3/imageContent-11924-j9l5fs6w-m3.png", group-title="Gujarati", Zee 24 Kalak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "e307TbjdobjbrbS04m+HWg", "kid": "T/FHTtkEVduSQAvHzpWbOQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1ohOm7KQhicDTcwHOOikdw", "kid": "8y54rIn+UBewU/e3B6C3pA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd|cookie:400 Bad Request
@@ -2467,28 +2467,28 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="512" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11981-j9lunvjs-v1/imageContent-11981-j9lunvjs-m1.png", group-title="Hindi", Zee Madhya Pradesh Chattisgarh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1ndpvkmrVf2g7jI1x7dI0Q", "kid": "UQv41fQyWa6+A2e3EHQJoQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "w1h1JivdRS65sXCe49NNCw", "kid": "err8K/1YVIq2OmhPyl8q4w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_837/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="514" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEEBH_Thumbnail-v2/ZEEBH_Thumbnail.png", group-title="News", Zee Bharat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "grvUejmqUKjjEjP7vkwjQA", "kid": "aJcXl6nvUqeVw3lm2H4A0Q"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "HTr/ybsQvGOBiZT+F5wjrw", "kid": "gU6E2IMTWASTv4XO7uRMWA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="515" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png", group-title="Marathi", Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AWgK5ph4qIMVVVCbZvhIuw", "kid": "aAUE0vPqWoGi3UsxZcDdCQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sVzEIGM7uiI9P/HV3IacrA", "kid": "dBtEbasQX/GCYY5Bds/Ngg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="516" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png", group-title="Telugu", STAR Maa HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9rP7WkmmhGkU/8mGYZmVkg", "kid": "LQlR4by4U6Cclh0QcVA7ow"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JrW2g/teD7y+g1diW3F4zQ", "kid": "ZVz6JvX+Uh2y/I0cx0Icuw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd|cookie:400 Bad Request
@@ -2502,21 +2502,21 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="518" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZESA_Thumbnail-v3/ZESA_Thumbnail.png", group-title="Hindi", Salaam TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "myQxoDtvs0W71cq2lTrE4A", "kid": "zK1O28TyWNayJLGdz3GVxQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "fk4t/gdscSuOXzus/npMfg", "kid": "0VxBTUwRXtef7U4Doh6fmg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="521" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png", group-title="Tamil", Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Bt+aLnsRvr0//gcCYnD01w", "kid": "OUIV1yagU464/LakGJ9dfQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8V8Tp4KUwgBmo8ggATPKXg", "kid": "skGdTTl1UDqfUDGA+HLymA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png", group-title="Bengali", Zee Bangla HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "S2uxKppI+Ob9CUeE1P3fcQ", "kid": "ZmQZujHdVDOAG1oAxWSo9A"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "PBO7sXH6NWxVOHTIL4uqUg", "kid": "AfrVBrFEUAS+pOEnevNJEQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd|cookie:400 Bad Request
@@ -2551,7 +2551,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="533" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18308-jcqnzl68-v1/imageContent-18308-jcqnzl68-m1.PNG", group-title="Kannada", Colors SUPER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "B+LiqmTQ5znpVZeg3aSogw", "kid": "LXVd3abEVZi1vIZQzWcpMA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "MnlQTuWr5AbCDUAkj6nD9A", "kid": "cTXtggiOVhG+39VJdMM7SQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/manifest.mpd|cookie:400 Bad Request
@@ -2586,14 +2586,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="543" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png", group-title="Entertainment", Colors
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oaDyHqdZFQ1av29a2bmAEQ", "kid": "IihY9SM5XHi4ja+bJQcKnA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "oqoRP6X1ZZYJEhTi2ZRV9Q", "kid": "ATje1ZpGUxmKqkoKnOTZ4Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="544" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18305-jcqmvp7s-v1/imageContent-18305-jcqmvp7s-m1.png", group-title="Entertainment", Colors Infinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Masu6PWYLKQyeKckLKYcVw", "kid": "YjFy5aaqU/KAZYjxv/jOyg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZG0qtAfoEpbnpV8yk1r5Aw", "kid": "+S1S4eOlVBi4Ae67Cba9rg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd|cookie:400 Bad Request
@@ -2607,7 +2607,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="547" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11853-j9l1tvhs-v4/imageContent-11853-j9l1tvhs-m5.png", group-title="News", Times Now World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "moognCUjMuGxZbNFLs2+Tw", "kid": "VrVMwwVlUCGd4co7X6OEfQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XH6sM0zJI9xzC425QdSLpQ", "kid": "pPvcdOYeX8CxDWv5+2FKew"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/manifest.mpd|cookie:400 Bad Request
@@ -2621,7 +2621,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="551" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png", group-title="Entertainment", STAR Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "1ARQMe/dEZH/03X0Y6Dw9Q", "kid": "Log3LrzoUhKk07rIulMkSg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "EKE8pzcS16a3CsFijducqQ", "kid": "Hxq8bm1uWdS7nKldVO9oTA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd|cookie:400 Bad Request
@@ -2642,7 +2642,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="554" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png", group-title="Entertainment", Sony Pal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0yDefa1rVr9vJT66neNWag", "kid": "L3xibXG4Xu2Esgfs6J+mTw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "zTrwD0uDhwPhWHcgG9yaew", "kid": "kqPOeLKUXdyHLks5Xsp1EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd|cookie:400 Bad Request
@@ -2656,35 +2656,35 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="556" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png", group-title="Entertainment", SET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YA5zR/daLsT7e0OksWVPtA", "kid": "JSl5+VxTU4CP+LwxDntTwg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "yk/DvjQ80+GXfn5LKvq7tQ", "kid": "tWxq1qz8U9CPahMS2hMpdg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="557" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png", group-title="Entertainment", Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LEgaCjjxeev44zBbPcWReg", "kid": "eqglsh4bX9KqWXsjzd162w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7EJizCoH6Y0VwVzs2ZqZHQ", "kid": "hIXCdWd5XyGWCYDZUGernQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="558" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png", group-title="Movies", SONY PIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mtwOnX951htPL0cXMboACw", "kid": "22+8FM6wXKeEPpMP5tyYeQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WXwGf7L9uwWIdan5PYys1A", "kid": "pUQcHPB4Ui6isaDfd/PR4A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png", group-title="Entertainment", SONY SAB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TOP5FFUFsztyRrq87IDXYw", "kid": "lVaRhc6nX5SXkQqZ1YwQLQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9YLLwlU+kZY7bUIMvFS18g", "kid": "QFGwOz5SXiqnj571PW37Iw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png", group-title="Movies", Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "dmJEFWaqlGdcCSz+zAhYWg", "kid": "tS+hzGmiV+2i1wn6M3H5+w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "A2RtOvIIc/9mainbRvSBYA", "kid": "ri3YraHRWYy1rECLYcbJPQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd|cookie:400 Bad Request
@@ -2726,14 +2726,14 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="578" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png", group-title="Entertainment", AndTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "wx8uanqUzOqE89t2B1bw3w", "kid": "fk4ytzMyUsSvvrbjJlEN9g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FDwJhrRJ6AdQrxBQ+1hAcA", "kid": "szlMnrdJVKWZVQynKOb+Pw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="580" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png", group-title="Punjabi", Zee Punjab Haryana Himachal Pradesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "3KLWuZ74bpBDsP0tx5KXxQ", "kid": "7CUnwys0Wvmx7eJ6CVpaDg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NbupvCPX0hmPqLjRmFNCNQ", "kid": "Vrc+4jEQXmO7WXXdzP4Xdg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_838/output/manifest.mpd|cookie:400 Bad Request
@@ -2754,7 +2754,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_820/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="586" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12167-j9phnio0-v2/imageContent-12167-j9phnio0-m2.png", group-title="Gujarati", Sandesh News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "HA6iP5nsZLk2krjelzwCAw", "kid": "RfQREUSYVLSc0kx72/4qlw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "14d8cv1KZo4HOHoLMnPy9g", "kid": "FYb51ER3WmmDZkyvGANwgA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd|cookie:400 Bad Request
@@ -2796,7 +2796,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="597" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png", group-title="Odia", Zee Sarthak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BmqDxSu9ck49AxOeOCajdQ", "kid": "RThVAHiDVWqWGGIvQwuEbA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "RFta/WpUVggxFUQBjnv2Mg", "kid": "YLtjdq6mWM+FvK3T5zgC5A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd|cookie:400 Bad Request
@@ -2810,14 +2810,14 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="605" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png", group-title="Knowledge", National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cqyURxZmQNewS6N4jFExEA", "kid": "9ftemPMlWhaAFkpX3OnCVA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "bdNLPCAXFVC1g0D+BCP2cg", "kid": "9PF19yLJUc2u5BC20lq17Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="608" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", group-title="Tamil", Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DQYwg1Cq41Vtl/SdwlKCNg", "kid": "NHciBKY7U02SCccGDdQtyg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "KM2Eyi1L01zCIJQ3w7sgyg", "kid": "gtd6fiktVjqvQfNbk8Omnw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd|cookie:400 Bad Request
@@ -2831,7 +2831,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="612" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png", group-title="Kannada", Colors Kannada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "fMt0N9XCdL1oaBVjPuBYGw", "kid": "Kw+55aZ4WjWs1rrQnmOO6w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "igzAHNAtJZOpYAKpT0km0w", "kid": "8iHUuhP+Xau/6pZFR8qahg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_490/output/manifest.mpd|cookie:400 Bad Request
@@ -2845,7 +2845,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="616" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png", group-title="Knowledge", History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "y2bdjEeFyFI/LAoU4uZ3Dw", "kid": "MyDKmLjOUJ20uucm2OlhFQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uX5tGAwgrPLESKtWZc4FbA", "kid": "+iFMZNSAUDiZWpvONVioXw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd|cookie:400 Bad Request
@@ -2907,28 +2907,28 @@ https://delta45tatasky.akamaized.net/out/i/1633.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="633" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png", group-title="Entertainment", Investigation Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TCRPV1AdQ89AdoA664koNA", "kid": "CwgYgiLNVRSPYcOtG6yUxw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "737Q0CWVZ8JrMJm7jmeLdg", "kid": "qCTuC0ozUUyYn1dGApTCWg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="635" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png", group-title="Telugu", Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jVH57ech+trQzjbYEd++CA", "kid": "0VP2YANFUo6Fc6xDj1G8jw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "SVvUJs3hI4w623EOcgY98g", "kid": "ua4XupD3U6Kr5hajsk7O6g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="636" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png", group-title="Telugu", Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cji2AM+Rqs91GKJaSJpsFg", "kid": "O+F5/kmxVE+Ouu7Jz+96OA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "O5RL1vEtM7dlX62dsCyy0w", "kid": "X6bp8/SnW9ShN9n+wuktWw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="637" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png", group-title="News", Zee Uttar Pradesh Uttarakhand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "JvlKWIfpV+kBqZ7q3+vk9w", "kid": "rZA2ZtK6UQe2HRHTOX4axw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ZC4Ye7wQ5VbENFdzLro4Ww", "kid": "jd8xKvnzXGywFPj5YodX2g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/manifest.mpd|cookie:400 Bad Request
@@ -2998,7 +2998,7 @@ https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="658" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png", group-title="Marathi", Sony Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "GDwJ4yfE5xP208Bk/ZuwxQ", "kid": "sQjADxpfURmB/Sh7w/iPsw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "T7dG+qje5ShLTSioMbltcg", "kid": "76BmkS4jWTKXT2BY7W0ljQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd|cookie:400 Bad Request
@@ -3033,14 +3033,14 @@ https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="667" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png", group-title="Kannada", Colors Kannada Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "PAShwscT/j95xfnrroLp0g", "kid": "zdQdIcl4V3aG3yyb1ignjQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Wjm1h9FJ/igtwSaZA1wwdA", "kid": "0hEQtCCSWVSMJfSfu2EP9A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="674" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG", group-title="Tamil", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "bdZXLlZVaK41+oRitCwU8g", "kid": "sCp1MDGsXlam+SqCZfgYiQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qna2Q+ak6e+Nv7MMxNHzfg", "kid": "CxU959lpU2iCxFAWLmdkrg"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd|cookie:400 Bad Request
@@ -3061,14 +3061,14 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png", group-title="Kids", Cartoon Network HD+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "G8CYNamDv+kXQB7q4A9YZw", "kid": "/L7oAjxSXd+oAZRsyucayQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6DTACqLYO4GGK6QfUgOW1A", "kid": "WgiyFF/NW4GEHiZdIHDkeA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="684" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png", group-title="Malayalam", Zee Keralam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "C4Q8Dx49HBP+hVtl8PFVTw", "kid": "CfCoAMesXpWLm9CUuw1QtA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "syGLiHQEwXwzpt5T/NQ8DA", "kid": "PhusebbuVbK1NA5RUueVVw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd|cookie:400 Bad Request
@@ -3082,7 +3082,7 @@ https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="689" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png", group-title="News", Aaj Tak HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "PSqxUVLNkNZbC7gkOEBbdg", "kid": "ZML5T6ATWz+pUvIFx/2Ayw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XjU7U5/BHt1jL3n5I9H6lQ", "kid": "Bx+VzcfeVwuRVN0YmrI0CA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd|cookie:400 Bad Request
@@ -3096,7 +3096,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="692" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png", group-title="Gujarati", Colors Gujarati Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FsJ+uAcEHgN28dI7v8X/CA", "kid": "dCJ8+pZ4WnaWPISzotYHrQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Xhb0OByA11BwVC6YKmiw9Q", "kid": "2j/7a66pUXS/kXdKPnfLug"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta6.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd|cookie:400 Bad Request
@@ -3110,7 +3110,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="694" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png", group-title="Malayalam", Zee Keralam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gSRWSBE7iIZOPuPipcr4fg", "kid": "/X19NLzwVPiAa/6DEshVaQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kWcNYdZtiVp9vM9nes/2yQ", "kid": "bAdHmQJeUe2h4NJjxJb94A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd|cookie:400 Bad Request
@@ -3165,7 +3165,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="727" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png", group-title="Movies", Zee Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Jw8C/YQ3fKRRyYC/9meC/A", "kid": "wtl/Gk8XXDyzlc6I0HBiUw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "aMhjHxNf4rw3KTMzU6c0Rg", "kid": "8ww2DRrxUyCEifNzc+YmaA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd|cookie:400 Bad Request
@@ -3325,14 +3325,14 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="796" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png", group-title="Punjabi", Zee Punjabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "A1oO7YNca/5mtjuU+e0HAw", "kid": "nuFcbqBJUPuL7sjo7rTWYg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "T4IVJ+umGHRpdZZxi/Apog", "kid": "36Xqw0y0U++Q8SFlrzCUyQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="797" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png", group-title="Tamil", Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tMmHevZ0bTNDaPXOTYqsFg", "kid": "+8ymTVKsVoeW0puSfE5fgw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "5UP/NVLPJ51wGn3PWR+EOQ", "kid": "XXplZB1+VyOyf0U4R3kP3g"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd|cookie:400 Bad Request
@@ -3380,7 +3380,7 @@ https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/manifest.mpd|c
 
 #EXTINF:-1 tvg-id="810" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png", group-title="Kannada", Zee Picchar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "WMFJNwFDboOrWSzQ5BUWag", "kid": "frGnsyzTVe2HRvWfYsrtGg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS3EQ66JEyoHdShPvMmf+w", "kid": "Nm5edRkkVLWFGmBuiDxwjw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd|cookie:400 Bad Request
@@ -3394,14 +3394,14 @@ https://bpwta3.akamaized.net/bpk-tv/irdeto_com_Channel_1108/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png", group-title="Sports", Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VWzPK5H56Wltt8FahbOjSA", "kid": "MJ0CPy81W6Om/Tx7twLUoQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "yARkPE0EWcEEfA6QfuHp/A", "kid": "BIEZuVn2W2OEST+AR/+l1w"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="814" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png", group-title="Hindi", Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jKwyspiYp2uXLa8MEeJBLQ", "kid": "Inqj2xkYUP6W9Mb6BtU4uQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "F4jKViVw6d2FBcEDNGKCYg", "kid": "5R8eQ9REWMStk1aY8PL2lQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/manifest.mpd|cookie:400 Bad Request
@@ -3620,7 +3620,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="896" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v6/CLRBANG_Thumbnail.png", group-title="Bengali", Colors Bangla Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "pKUkksZBl+7xnGR1bcCyNw", "kid": "H7ZC0UitUaKvKFu+J6qNXQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Ifvy0eZqdG0nnA+PTnGRsg", "kid": "QHI43CuXXpCHBuoooQcsKw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd|cookie:400 Bad Request
@@ -3729,7 +3729,7 @@ https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u
 
 #EXTINF:-1 tvg-id="932" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png", group-title="News", Times Now Navbharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "M4m9sdqEoT50IUWAJEgbSA", "kid": "vPBdm8TUW2GFkA8L62XF2g"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ou4sqzBaMBeBzrD4+3DzIg", "kid": "G4AdrJVdWeu/dOIz/pL1TA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/manifest.mpd|cookie:400 Bad Request
@@ -3856,7 +3856,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="966" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png", group-title="News", Times Now Navbharat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/vz83qnRBMnpM0rAidUNdg", "kid": "oFPxm/coUqOcC4Hr1fcPdg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qHdfNjyfNGKO7YL2TUPhnA", "kid": "QF5af+D5Vj+9Px26lEBUlw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/manifest.mpd|cookie:400 Bad Request
@@ -3933,7 +3933,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="980" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png", group-title="Sports", Sports 18 - 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lXWsikkoWNLYWAEFq3EFbA", "kid": "dEY+ChdSX/OGxozJWp1JiQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I+jScYwhfRhM9TjCKq1Rng", "kid": "8E79MTdAX8qAhUeSkWiFoQ"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd|cookie:400 Bad Request
@@ -4017,7 +4017,7 @@ https://delta14tatasky.akamaized.net/out/i/7253194.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="1000" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png", group-title="Drama", Colors Cineplex Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XodSfNYHKPfuHCkDY+ZgGw", "kid": "VDqU7WlCUlGJOWyjMtn+5w"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "PVgDnGgBPSdhAWZBCgQWfA", "kid": "Y56OFZnAW2OGBr746qG3Ag"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd|cookie:400 Bad Request
@@ -4072,6 +4072,7 @@ https://delta45tatasky.akamaized.net/out/i/910.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="1009" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72340-l6nkcw74-v1/imageContent-72340-l6nkcw74-m1.png", group-title="News", TV27 News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "o5eNkpR9K6636im9Kyo66w", "kid": "pPpSiLx4UwCmVeXwQqla6Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/manifest.mpd|cookie:400 Bad Request
@@ -4119,7 +4120,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png", group-title="Sports", Sports 18 - 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "cBavbfgMdfjBA0ZL3j0iAQ", "kid": "X4r48g5/XeyUAEBRvhAQRQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rcYm/z0ABj53Xavok9A+Rw", "kid": "hft8+l8jWm6MrXy7M0EGRA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd|cookie:400 Bad Request
@@ -4164,7 +4165,7 @@ https://bpwta7.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="1056" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png", group-title="Knowledge", Tata Play Har Ghar Startup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jbj51TNtaec1tqMob+2J1g", "kid": "9/sF7LtLX42xnR4QQfLmFA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "E15foRBL1A38jx8dlLwscw", "kid": "n3HbCpA+WJeE5xlSxMH7zw"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd|cookie:400 Bad Request
@@ -4426,21 +4427,21 @@ https://delta45tatasky.akamaized.net/out/i/1412.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="1181" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEPIHD_Thumbnail-v1/ZEPIHD_Thumbnail.png", group-title="Drama", Zee Picchar HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "OirbVQa0HQcurqbVNweoNQ", "kid": "0oPJOydVXkyaqzlXeXfQPQ"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+kqyoQqYAzm9pUpyJqvlkg", "kid": "lZ893MOFXN2W6r2S6LkEDA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="1182" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png", group-title="Movies", Zee Thirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mtVXW8tgA+4Y1P8rkCluPQ", "kid": "/ue8vLshVmW6YqUUVvzrzw"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "+VKR0gT4T+0FQf1FkJHoNQ", "kid": "Qolsg4suWZK8R+L9QiUQ5A"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta2.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd|cookie:400 Bad Request
 
 #EXTINF:-1 tvg-id="1183" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png", group-title="Movies", AndXplor HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "79Kzb+WfHpagolsCbrOX0w", "kid": "x2JLWRbVV6Odyxq5pcS2hA"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "W75hN4NC6OP4H93KZU3WaQ", "kid": "NKGCGWOPW7mFh7xKbISQww"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta1.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd|cookie:400 Bad Request
@@ -4646,7 +4647,7 @@ https://bpwta4.akamaized.net/bpk-tv/irdeto_com_Channel_2055/output/manifest.mpd|
 
 #EXTINF:-1 tvg-id="1276" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png", group-title="Entertainment", Investigation Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I58rZCYnazSB4Cje6Ot4pg", "kid": "UD3iSCIwUHOklYOyT3Accg"}], "type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lVL4tYddbukLlZ6PaJk/nA", "kid": "Yp/4pMebVLiUsjgVlNo6+Q"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"cookie":"400 Bad Request"}
 https://bpwta5.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd|cookie:400 Bad Request
